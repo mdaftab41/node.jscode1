@@ -1,0 +1,1 @@
+read file is alredy present then it simple replace the content  , it simply add the content into present file hello brother i am using node js 
